@@ -1,0 +1,12 @@
+You should have python 3.10 installed in your machine for running this script.
+
+Step 1 => Installing required libraries.
+
+run below command:
+
+pip install requests
+
+
+Step 2 => Run the pokemon file.
+
+python pokemon.py.
